@@ -1,4 +1,5 @@
 # Reeeeeeeeeeeadme!!!  
+仅供学习与参考,不得用于违法犯罪行为  
 ## Background  
 兴趣使然  
 ## Usage  
