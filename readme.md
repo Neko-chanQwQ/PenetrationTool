@@ -8,6 +8,7 @@
 Shiro(也就是我)  
 ## Log  
 完成项目后完善GUI与FixBug  
+2022-05-01:如在部署后发现系统识别的Nmap方法无法使用,先将'python-nmap'模块卸载再重新安装,方法:'pip3 install python-nmap'  
 ## 项目依赖  
 Requirements文件夹中有项目所需依赖  
 导入依赖在Command窗口输入'pip install -r requirements.txt'  
