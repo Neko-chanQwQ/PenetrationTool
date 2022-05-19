@@ -1,0 +1,4 @@
+kamene==0.32
+nmap==0.0.1
+PySide2==5.15.2.1
+python_nmap==0.6.4
